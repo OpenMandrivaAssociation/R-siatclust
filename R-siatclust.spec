@@ -9,8 +9,9 @@ Group:            Sciences/Mathematics
 License:          GPL (>= 3)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
-Requires:         R-lattice R-latticeExtra R-clv 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-lattice R-latticeExtra R-clv
+Requires:         R-lattice R-latticeExtra R-clv
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-lattice R-latticeExtra R-clv
 
 %description
 A collection of cluster analysis tools and algorithms for data mining
