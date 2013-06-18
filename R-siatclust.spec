@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0.5
-Release:          1
+Release:          2
 Summary:          Shenzhen Institutes of Advanced Technology Clustering Suite
 Group:            Sciences/Mathematics
 License:          GPL (>= 3)
