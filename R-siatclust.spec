@@ -7,7 +7,7 @@ Release:          2
 Summary:          Shenzhen Institutes of Advanced Technology Clustering Suite
 Group:            Sciences/Mathematics
 License:          GPL (>= 3)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
 Requires:         R-lattice R-latticeExtra R-clv
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
